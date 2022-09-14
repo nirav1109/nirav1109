@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirav1109
+- 👋 Hi, I’m Nirav Karathiya :) @nirav1109
 - 👀 I’m interested in web designing and develop to new things
 - 🌱 I’m currently learnig and working in full stack technology as proffesional 
 - 💞️ I’m looking to collaborate on open source plateform 
